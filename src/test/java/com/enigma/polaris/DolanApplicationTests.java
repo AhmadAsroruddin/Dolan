@@ -1,4 +1,4 @@
-package com.dolan.dolan;
+package com.enigma.polaris;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
