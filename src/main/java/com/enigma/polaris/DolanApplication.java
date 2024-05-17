@@ -1,4 +1,4 @@
-package com.dolan.dolan;
+package com.enigma.polaris;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
